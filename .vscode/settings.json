@@ -1,0 +1,11 @@
+{
+  "python.defaultInterpreterPath": "/usr/local/bin/python",
+  "python.analysis.extraPaths": [
+    "/home/vscode/.local/lib/python3.12/site-packages",
+    "/usr/local/lib/python3.12/site-packages"
+  ],
+  "python.analysis.diagnosticMode": "workspace",
+  "python.analysis.useLibraryCodeForTypes": true,
+  "python.languageServer": "Pylance"
+}
+
