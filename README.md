@@ -65,9 +65,11 @@ uvicorn app:app --reload
 
 `main.py` menghasilkan visualisasi Metode Elbow dan hasil clustering pelanggan:
 
-- Metode Elbow untuk menentukan jumlah cluster optimal
-- Plot cluster pelanggan dengan titik pusat (centroid)
+- Metode Elbow untuk menentukan jumlah cluster optimal\
+![Metode Elbow](outputs/elbow_plot.png)
 
+- Plot cluster pelanggan dengan titik pusat (centroid)\
+![Hasil Clustering](outputs/cluster_plot.png)
 ## 🧠 Teknologi yang Digunakan
 
 - Python 3.x
